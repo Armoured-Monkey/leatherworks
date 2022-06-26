@@ -1,7 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    "leatherworks:load",
-	  "leatherworks:check_for_items_in_water_cauldrons"
-  ]
-}
